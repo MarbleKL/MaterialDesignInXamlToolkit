@@ -41,7 +41,7 @@
                 </Style.Resources>
                 <Setter Property="VerticalContentAlignment" Value="Bottom" />
                 <Setter Property="HorizontalContentAlignment" Value="Right" />
-                <Setter Property="materialDesignDemo:XamlDisplayEx.ButtonDock" Value="Right" />
+                <!--<Setter Property="materialDesignDemo:XamlDisplayEx.ButtonDock" Value="Right" />-->
                 <Setter Property="Formatter">
                     <Setter.Value>
                         <smtx:XamlFormatter NewLineOnAttributes="True" Indent="  ">
